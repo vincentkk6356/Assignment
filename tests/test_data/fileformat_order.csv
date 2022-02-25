@@ -1,0 +1,4 @@
+datatype,"column name",width
+TEXT,name,10
+BOOLEAN,valid,1
+INTEGER,count,3

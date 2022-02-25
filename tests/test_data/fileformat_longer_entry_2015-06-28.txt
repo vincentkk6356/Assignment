@@ -1,0 +1,3 @@
+Diabetes  1 33124 1
+Asthma    0-12
+Stroke    1103

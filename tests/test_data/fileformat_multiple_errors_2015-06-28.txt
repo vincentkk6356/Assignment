@@ -1,0 +1,5 @@
+Diabetes  1  1trash
+Asthma  
+Stroke 1103
+More irrelevant data
+            

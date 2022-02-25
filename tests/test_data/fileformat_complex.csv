@@ -1,0 +1,10 @@
+width,datatype ,"column name" 
+10 ,TEXT,firstname
+10,TEXT,lastname
+1, BOOLEAN,valid
+3,INTEGER,count
+1,BOOLEAN, test
+1,BOOLEAN,valid
+3,INTEGER,NumbEr
+1,BOOLEAN,anotherValid
+3,Text,email 
